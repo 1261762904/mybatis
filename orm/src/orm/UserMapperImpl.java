@@ -1,12 +1,7 @@
 package orm;
 
 
-/**
- * cglib
- * 
- * @author wtao
- *
- */
+
 public class UserMapperImpl implements UserMapper {
 
 	@Override
