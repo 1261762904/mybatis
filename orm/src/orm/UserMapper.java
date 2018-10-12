@@ -6,12 +6,7 @@ import orm.anno.Insert;
 import orm.anno.Mapper;
 import orm.anno.Select;
 
-/**
- * 定义数据操作的方法，注解映射了实质要执行的 SQL
- * 
- * @author wtao
- *
- */
+
 @Mapper
 public interface UserMapper {
 
