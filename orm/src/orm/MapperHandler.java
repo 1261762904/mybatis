@@ -13,12 +13,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * 动态代理基于接口的代理
- * 
- * @author wtao
- *
- */
+
 public class MapperHandler implements InvocationHandler {
 
 	UserMapper mapper;
